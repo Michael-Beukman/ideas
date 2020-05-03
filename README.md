@@ -6,3 +6,11 @@
 - chess engine/simulator
 - compiler
 - context free grammar generation for level design.
+- Finite automata Myhill Nerode theorem
+- Finite automata for regex parsing
+- Regex -> FA -> Regex converter
+- Differential equations solver
+- Function plotter
+- Pendulum Simulator
+- cosmological simulation
+- n body physics
